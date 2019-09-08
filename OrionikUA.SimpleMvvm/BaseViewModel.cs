@@ -1,9 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using SimpleMvvm.Annotations;
 
-namespace SimpleMvvm
+namespace OrionikUA.SimpleMvvm
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
